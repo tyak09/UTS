@@ -1,0 +1,23 @@
+body{
+    background-color:  #D6DBDF;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    font-size: 12px;
+    text-align: center;
+}
+form.border.p-3.rounded.d-grid.mx-auto {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btn{
+    border-radius: 20px;
+}
+

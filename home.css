@@ -1,0 +1,85 @@
+body{
+    background-color: #D6DBDF
+}
+.style-logo{
+    position: absolute;
+    align-items: center;
+    width: 30px;
+    height: 70px;
+    left: 25px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    color: white;
+
+}
+.style-home{
+    font-weight: 700;
+}
+.user{
+   position: absolute;
+   align-items: center;
+   height: 40px;
+   color: white;
+
+   left: 150px;
+}
+.navbar{
+    color: white;
+}
+
+.teks{
+    font-size: 70px;
+    margin-top: 100px;
+    align-items: center;
+    color: #5E5E5E;
+}
+button.tombol.button {
+    background-color: red;
+    border-radius: 50px;
+    color: white;
+    width: 400px;
+    height: 40px;
+}
+form.border.p-3.rounded.d-grid.mx-auto {
+    background-color:white;
+}
+.tambah{
+    font-size: 24px;
+    background-color:  #72FF70;
+    height: 40px;
+    width: 200px;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+}
+.cetak{
+    font-size: 24px;
+    background-color:#FF4343;
+    height: 40px;
+    width: 200px;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    align-items: center;
+    height: 40px;
+    left: 300px;
+    
+}
+.search{
+    position: absolute;
+    align-items: center;
+    height: 40px;
+    left: 1000px;
+    background-color: #87A9FF;
+    border-radius: 24px;
+    outline-color: red;
+}  
+.table{
+    margin-top: -400px;
+}
+.table a{
+    border-radius: 12px;
+    width: 100px ;
+}
